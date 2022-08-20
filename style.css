@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.wdf {
+    display: flex;
+    flex-direction: column;
+    background-image: url(wdfimg.png);
+    height: 440px;
+    width: 100%;
+    margin-top: 100px;
+}
+.wdf h1 {
+    font-size: 60px;
+    padding: 0px 150px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+.wdf p {
+    padding: 30px 200px;
+    font-size: 20px;
+    text-align: center;
+}
+.tdw {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+}
+.tdw h1 {
+    font-size: 40px;
+    padding: 70px 350px;
+    text-align: center;
+}
+.tdw p {
+    font-size: 20px;
+    padding: 0px 200px;
+    text-align: center;
+}
+.wd {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin: 120px 150px;
+}
+.wd h1 {
+    font-size: 40px;
+}
+.wd p {
+    padding: 15px 0px;
+}
+.wdimg img {
+    display: flex;
+    height: 300px;
+    width: 550px;
+    margin-left: 800px;
+    margin-top: -400px;
+    margin-bottom: 100px;
+}
+.wdpimg img {
+    height: 450px;
+    margin-left: 150px;
+}
+.wdp {
+    margin-left: 800px;
+    margin-top: -270px;
+    margin-bottom: 150px;
+    position: relative;
+    width: 600px;
+}
+.wdp h1 {
+    font-size: 40px;
+}
+.wdp p {
+    padding: 15px 0px;
+}
+.purplerectangle {
+    background-image: url(purplebg.png);
+    height: 200px;
+    margin: 0px 100px;
+}
+.purplerectangle h1 {
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    padding: 30px 0px 0px 0px;
+}
+.purplerectangle p {
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    padding: 30px 300px;
+    font-weight: 400;
+}
+.seo {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin: 120px 150px;
+}
+.seo h1 {
+    font-size: 40px;
+}
+.seo p {
+    padding: 15px 0px;
+}
+.seoimg img {
+    height: 350px;
+    margin-left: 800px;
+    margin-top: -600px;
+    margin-bottom: 100px;
+    position: relative;
+}
+.smmimg img {
+    height: 380px;
+    width: 550px;
+    position: absolute;
+    margin-left: 120px;
+}
+.smm {
+    height: 430px;
+    width: 550px;
+    position: absolute;
+    margin-left: 800px;
+}
+.smm h1 {
+    font-size: 35px;
+}
+.smm p {
+    font-size: 18px;
+    padding-top: 25px;
+}
+
+.sem {
+    height: 300px;
+    width: 550px;
+    position: absolute;
+    margin-left: -665px;
+    margin-top: 140px;
+}
+.sem h1 {
+    font-size: 35px;
+}
+.sem p {
+    font-size: 18px;
+    padding-top: 25px;
+}
+.semimg img {
+    height: 180px;
+    width: 550px;
+    position: absolute;
+    margin-top: 220px;
+}
+.handimg img {
+    height: 430px;
+    width: 710px;
+    position: absolute;
+    margin-left: -800px;
+    margin-top: 500px;
+}
+.purpletext {
+    background: rgb(97, 25, 169);
+    height: 430px;
+    width: 800px;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: -90px;
+}
+.purpletext h1 {
+    font-size: 40px;
+    padding: 100px;
+    color: white;
+}
+.purpletext p {
+    font-size: 16px;
+    margin-top: -155px;
+    color: white;
+    padding: 100px;
+}
+.customerimg img {
+    height: 450px;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 1000px;
+}
+.learn {
+    height: 300px;
+    width: 550px;
+    position: absolute;
+    margin-top: 1100px;
+
+}
